@@ -1,1 +1,2 @@
 # HotelReservation
+This Java project simulates a hotel reservation system using object-oriented programming, custom exceptions, and a menu-driven interface. It allows users to manage rooms, guests, employees, and bookings with validation and exception handling. The system includes classes such as Room, Reservation, Hotel, Guest, and Employee, and supports actions like booking, cancellation, and search. Designed to reinforce Java OOP principles, exception handling, and deep copying of data structures.
