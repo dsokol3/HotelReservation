@@ -1,0 +1,37 @@
+# Ignore class files and system garbage
+*.class
+*.log
+*.tmp
+*.db
+*.dat
+*.jcp
+*.jfm
+*.vol
+*.uca
+*.edb
+
+# IDE folders and configs
+.vscode/
+.idea/
+*.iml
+
+# Windows system folders
+AppData/
+Contacts/
+Documents/
+Downloads/
+Favorites/
+Links/
+Music/
+Pictures/
+Videos/
+Saved Games/
+Searches/
+OneDrive/
+NTUSER.*
+Thumbs.db
+Desktop.ini
+*.lnk
+
+# Temporary and lock files
+~$*
